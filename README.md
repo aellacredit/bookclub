@@ -10,7 +10,6 @@ Start: <br>
 End: <br>
 >>>
 
-
 ## Scope
 Tech books covering any of the following spaces are acceptable:
 - Programming Languages & Concepts (FE, BE, Mobile, Web etc)
@@ -29,8 +28,18 @@ Tech books covering any of the following spaces are acceptable:
 - This repo would be updated to show selected book at the top of the page
 
 ## Meeting
-Every Last Friday of the month · 3:00 – 4:00pm
-
+Every Friday of the week · 12:00 – 1:00pm
 Google Meet joining info
 
 Video call link: https://meet.google.com/zpw-hnus-jvv
+
+## Books
+- [Deep Work](https://www.calnewport.com/books/deep-work/)
+  - [Summary](summary/deep-work/kola_summary.md)
+
+## Info
+- [Twitter](https://twitter.com/)
+
+## Code of Conduct
+- [👉 code-of-conduct](code-of-conduct.md)
+
